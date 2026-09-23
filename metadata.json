@@ -1,0 +1,6 @@
+{
+  "name": "ClearBooks Studio",
+  "description": "High-end, ultra-minimalist financial command center for post-production freelancers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
